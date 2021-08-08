@@ -81,7 +81,7 @@ span + span {
 }
 
 .main-box {
-  padding: 55px;
+  padding: 49px;
 }
 
 .main-box > h3 {
@@ -96,15 +96,15 @@ span + span {
   line-height: 30px;
   font-family: "Roboto", sans-serif;
   font-weight: 300;
-  font-size: 19px;
-  margin-bottom: 15px;
+  font-size: 17px;
+  margin-bottom: 5px;
 }
 
 .main-box > button {
   padding: 15px;
   margin-top: 10px;
   border-radius: 5px;
-  width: 98%;
+  width: 100%;
 }
 
 .main-box > button,
