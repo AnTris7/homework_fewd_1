@@ -56,11 +56,11 @@ nav a:hover {
 }
 
 span:first-child {
-  text-decoration: line-through;
+  text-decoration: line-through #475c58;
 }
 
 span + span {
-  text-decoration: underline black;
+  text-decoration: underline #475c58;
 }
 
 .main-image {
@@ -81,7 +81,7 @@ span + span {
 }
 
 .main-box {
-  padding: 60px 40px 0 30px;
+  padding: 55px;
 }
 
 .main-box > h3 {
@@ -96,11 +96,12 @@ span + span {
   line-height: 30px;
   font-family: "Roboto", sans-serif;
   font-weight: 300;
-  font-size: 20px;
+  font-size: 19px;
+  margin-bottom: 15px;
 }
 
 .main-box > button {
-  padding: 10px 90px 10px 90px;
+  padding: 15px;
   margin-top: 10px;
   border-radius: 5px;
   width: 98%;
@@ -110,7 +111,7 @@ span + span {
 .search > button {
   font-family: "Oswald", sans-serif;
   font-weight: 600;
-  font-size: 24px;
+  font-size: 18px;
   background-color: #93c0b84a;
   color: #4e776f;
   border: none;
@@ -151,7 +152,7 @@ button:hover {
 }
 
 .search > button {
-  padding: 10px;
+  padding: 15px;
   width: 100%;
 }
 
