@@ -115,12 +115,11 @@ span + span {
 .search > button {
   font-family: "Oswald", sans-serif;
   font-weight: 600;
-  font-size: 20px;
+  font-size: 15px;
   background-color: #93c0b84a;
   color: #4e776f;
   border: none;
 }
-/* box-shadow: white 6px 6px; */
 
 button:hover {
   background-color: rgb(247, 247, 247);
